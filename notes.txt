@@ -1,0 +1,2 @@
+https://wandb.ai/ahmedrachid/FinancialBERT-Language-Model/reports/Financial-BERT--VmlldzoxMzQwMTgy
+https://lightning.ai/lightning-ai/studios/rag-using-llama-3-2-by-meta-ai?section=featured
